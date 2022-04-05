@@ -5,7 +5,6 @@ Criação de Blockchain api em Javascript com persitência de dados no cosmodb
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/engcfraposo/blockchain-cosmodb/LICENSE.md)
 ![GitHub last commit](https://img.shields.io/github/last-commit/engcfraposo/linkshare?color=green&style=flat-square)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/30e0ef7a3c2146498723e53c9fcaeda7)](https://www.codacy.com/manual/engcfraposo/blockchain-cosmodb_2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=engcfraposo/blockchain-cosmodb&amp;utm_campaign=Badge_Grade)
 ![GitHub top language](https://img.shields.io/github/languages/top/engcfraposo/blockchain-cosmodb?style=flat-square)
 <a href="https://github.com/engcfraposo/linkshare/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/engcfraposo/blockchain-cosmodb?style=social">
